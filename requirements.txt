@@ -1,6 +1,7 @@
+streamlit
 torch
-skimage
-numpy
+torchvision
+Pillow
+scikit-image
 matplotlib
-argparse
-PIL
+numpy
