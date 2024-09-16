@@ -1,4 +1,3 @@
-colorizers
 streamlit
 torch
 torchvision
